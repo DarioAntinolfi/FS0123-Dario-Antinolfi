@@ -1,0 +1,11 @@
+div {
+    color:red;
+    background-color: blue;
+}
+/* commento */
+div span{
+    color:white;
+}
+div, span{
+    border: 1px solid  black ;
+}

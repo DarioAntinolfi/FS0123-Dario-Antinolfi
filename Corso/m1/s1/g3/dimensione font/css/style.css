@@ -1,0 +1,14 @@
+body{
+    font-size: 20px;
+}
+#ti{
+    font-size: 40px;
+}
+
+#t2{
+    font-size: 20rem;
+    color: rgba(20,34,46,0.75)
+}
+#t3{
+    font-size: 8em;
+}
