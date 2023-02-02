@@ -1,0 +1,9 @@
+section > span{
+    color:red;
+}
+section + small{
+    background-color: aqua;
+}
+section ~ small{
+    color:blueviolet;
+}
